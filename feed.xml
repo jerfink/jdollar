@@ -3,7 +3,7 @@
     <title>J$</title>
     <link href="https://jerfink.github.io/jdollar/feed.xml" rel="self" />
     <link href="https://jerfink.github.io/jdollar" />
-    <updated>2018-08-17T14:26:16-05:00</updated>
+    <updated>2018-08-17T15:00:06-05:00</updated>
     <author>
         <name>J$</name>
     </author>
@@ -14,21 +14,29 @@
         <author>
             <name>J$</name>
         </author>
-        <link href="https://jerfink.github.io/jdollar/My-Second-Post/"/>
-        <id>https://jerfink.github.io/jdollar/My-Second-Post/</id>
+        <link href="https://jerfink.github.io/jdollar/my-second-post/"/>
+        <id>https://jerfink.github.io/jdollar/my-second-post/</id>
             <category term="Lessons"/>
 
-        <updated>2018-08-17T13:56:31-05:00</updated>
+        <updated>2018-08-17T14:59:50-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jerfink.github.io/jdollar/media/posts/2/motion_left.jpg" alt="" />
-                    Holy crap! Here's another one!
+                    <p>Holy crap!  Here's another one!</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://jerfink.github.io/jdollar/media/posts/2/motion_left.jpg" alt="" />
-                Holy crap!  Here's another one!
+                <p>Holy crap!  Here's another one!</p>
+
+<ol>
+<li>thing 1</li>
+<li>thing 2</li>
+<li>thing 3</li>
+<li>thing 4</li>
+</ol>
             ]]>
         </content>
     </entry>

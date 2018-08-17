@@ -10,11 +10,11 @@
     },
     "items": [
         {
-            "id": "https://jerfink.github.io/jdollar/My-Second-Post/",
-            "url": "https://jerfink.github.io/jdollar/My-Second-Post/",
+            "id": "https://jerfink.github.io/jdollar/my-second-post/",
+            "url": "https://jerfink.github.io/jdollar/my-second-post/",
             "title": "My Second Post",
-            "summary": "Holy crap! Here's another one!",
-            "content_html": "Holy crap!  Here's another one!",
+            "summary": "<p>Holy crap!  Here's another one!</p>\n",
+            "content_html": "<p>Holy crap!  Here's another one!</p>\n\n<ol>\n<li>thing 1</li>\n<li>thing 2</li>\n<li>thing 3</li>\n<li>thing 4</li>\n</ol>",
             "image": "https://jerfink.github.io/jdollar/media/posts/2/motion_left.jpg",
             "author": {
                 "name": "J$"
@@ -23,7 +23,7 @@
                    "Lessons"
             ],
             "date_published": "2018-08-17T13:56:31-05:00",
-            "date_modified": "2018-08-17T13:56:31-05:00"
+            "date_modified": "2018-08-17T14:59:50-05:00"
         },
         {
             "id": "https://jerfink.github.io/jdollar/my-first-post/",
