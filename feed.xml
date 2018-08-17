@@ -3,7 +3,7 @@
     <title>J$</title>
     <link href="https://jerfink.github.io/jdollar/feed.xml" rel="self" />
     <link href="https://jerfink.github.io/jdollar" />
-    <updated>2018-08-17T13:29:42-05:00</updated>
+    <updated>2018-08-17T13:53:03-05:00</updated>
     <author>
         <name>J$</name>
     </author>
@@ -18,16 +18,16 @@
         <id>https://jerfink.github.io/jdollar/my-first-post/</id>
             <category term="Experiences"/>
 
-        <updated>2018-08-17T12:51:20-05:00</updated>
+        <updated>2018-08-17T13:48:08-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jerfink.github.io/jdollar/media/posts/1/me_as_walken.jpg" alt="" />
-                    It is a long established fact that a reader will be distracted&hellip;
+                        <img src="https://jerfink.github.io/jdollar/media/posts/1/motion_right.jpg" alt="" />
+                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jerfink.github.io/jdollar/media/posts/1/me_as_walken.jpg" alt="" />
+                    <img src="https://jerfink.github.io/jdollar/media/posts/1/motion_right.jpg" alt="" />
                 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
             ]]>
         </content>
