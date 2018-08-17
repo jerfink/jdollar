@@ -3,12 +3,35 @@
     <title>J$</title>
     <link href="https://jerfink.github.io/jdollar/feed.xml" rel="self" />
     <link href="https://jerfink.github.io/jdollar" />
-    <updated>2018-08-17T13:53:03-05:00</updated>
+    <updated>2018-08-17T13:58:56-05:00</updated>
     <author>
         <name>J$</name>
     </author>
     <id>https://jerfink.github.io/jdollar</id>
 
+    <entry>
+        <title>My Second Post</title>
+        <author>
+            <name>J$</name>
+        </author>
+        <link href="https://jerfink.github.io/jdollar/My-Second-Post/"/>
+        <id>https://jerfink.github.io/jdollar/My-Second-Post/</id>
+            <category term="Lessons"/>
+
+        <updated>2018-08-17T13:56:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jerfink.github.io/jdollar/media/posts/2/motion_left.jpg" alt="" />
+                    Holy crap! Here's another one!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jerfink.github.io/jdollar/media/posts/2/motion_left.jpg" alt="" />
+                Holy crap!  Here's another one!
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>My First Post</title>
         <author>
