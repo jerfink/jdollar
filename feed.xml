@@ -3,12 +3,62 @@
     <title>J$</title>
     <link href="https://jerfink.github.io/jdollar/feed.xml" rel="self" />
     <link href="https://jerfink.github.io/jdollar" />
-    <updated>2018-08-17T15:00:06-05:00</updated>
+    <updated>2018-08-20T16:34:56-05:00</updated>
     <author>
         <name>J$</name>
     </author>
     <id>https://jerfink.github.io/jdollar</id>
 
+    <entry>
+        <title>Gallery</title>
+        <author>
+            <name>J$</name>
+        </author>
+        <link href="https://jerfink.github.io/jdollar/gallery/"/>
+        <id>https://jerfink.github.io/jdollar/gallery/</id>
+
+        <updated>2018-08-20T16:34:08-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jerfink.github.io/jdollar/media/posts/3/" alt="" />
+                    Ballo PeopleBuilding BelowColor BlurMoneyNotebookPuzzleSkyscrapersSuitSunflowers
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jerfink.github.io/jdollar/media/posts/3/" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://jerfink.github.io/jdollar/media/posts/3/gallery/balloon_people.jpg" ><img src="https://jerfink.github.io/jdollar/media/posts/3/gallery/balloon_people-thumbnail.jpg" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Ballo People</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://jerfink.github.io/jdollar/media/posts/3/gallery/building_below.jpg" ><img src="https://jerfink.github.io/jdollar/media/posts/3/gallery/building_below-thumbnail.jpg" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Building Below</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://jerfink.github.io/jdollar/media/posts/3/gallery/color_blur.jpg" ><img src="https://jerfink.github.io/jdollar/media/posts/3/gallery/color_blur-thumbnail.jpg" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Color Blur</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://jerfink.github.io/jdollar/media/posts/3/gallery/money.jpg" ><img src="https://jerfink.github.io/jdollar/media/posts/3/gallery/money-thumbnail.jpg" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Money</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://jerfink.github.io/jdollar/media/posts/3/gallery/notebook.jpg" ><img src="https://jerfink.github.io/jdollar/media/posts/3/gallery/notebook-thumbnail.jpg" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Notebook</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://jerfink.github.io/jdollar/media/posts/3/gallery/puzzle.jpg" ><img src="https://jerfink.github.io/jdollar/media/posts/3/gallery/puzzle-thumbnail.jpg" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Puzzle</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://jerfink.github.io/jdollar/media/posts/3/gallery/skyscrapers.jpg" ><img src="https://jerfink.github.io/jdollar/media/posts/3/gallery/skyscrapers-thumbnail.jpg" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Skyscrapers</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://jerfink.github.io/jdollar/media/posts/3/gallery/suit.jpg" ><img src="https://jerfink.github.io/jdollar/media/posts/3/gallery/suit-thumbnail.jpg" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Suit</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://jerfink.github.io/jdollar/media/posts/3/gallery/sunflowers.jpg" ><img src="https://jerfink.github.io/jdollar/media/posts/3/gallery/sunflowers-thumbnail.jpg" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Sunflowers</figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>My Second Post</title>
         <author>

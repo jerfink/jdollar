@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://jerfink.github.io/jdollar/gallery/",
+            "url": "https://jerfink.github.io/jdollar/gallery/",
+            "title": "Gallery",
+            "summary": "Ballo PeopleBuilding BelowColor BlurMoneyNotebookPuzzleSkyscrapersSuitSunflowers",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/balloon_people.jpg\" ><img src=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/balloon_people-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Ballo People</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/building_below.jpg\" ><img src=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/building_below-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Building Below</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/color_blur.jpg\" ><img src=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/color_blur-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Color Blur</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/money.jpg\" ><img src=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/money-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Money</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/notebook.jpg\" ><img src=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/notebook-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Notebook</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/puzzle.jpg\" ><img src=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/puzzle-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Puzzle</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/skyscrapers.jpg\" ><img src=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/skyscrapers-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Skyscrapers</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/suit.jpg\" ><img src=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/suit-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Suit</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/sunflowers.jpg\" ><img src=\"https://jerfink.github.io/jdollar/media/posts/3/gallery/sunflowers-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Sunflowers</figcaption>\n</figure>\n</div>",
+            "image": "https://jerfink.github.io/jdollar/media/posts/3/",
+            "author": {
+                "name": "J$"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-20T16:34:08-05:00",
+            "date_modified": "2018-08-20T16:34:08-05:00"
+        },
+        {
             "id": "https://jerfink.github.io/jdollar/my-second-post/",
             "url": "https://jerfink.github.io/jdollar/my-second-post/",
             "title": "My Second Post",
